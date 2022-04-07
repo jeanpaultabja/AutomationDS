@@ -1,0 +1,8 @@
+{
+  "name": "Robin ",
+  "weather": {
+    "rainForecast": 90,
+    "stormAlert": false,
+    "temperature": "cold"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "Robin ",
   "weather": {
     "rainForecast": 90,
-    "stormAlert": false,
+    "stormAlert": true,
     "temperature": "cold"
   }
 }
